@@ -1,0 +1,6 @@
+[run]
+branch = True
+source = .
+omit =
+    testhelpers/tests/*
+parallel = True
