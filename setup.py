@@ -19,5 +19,5 @@ setup(
     description="Python library to help with creating tests",
     long_description=read_markdown("README.md"),
     test_suite="testhelpers.tests",
-    zipsafe=True
+    zip_safe=True
 )
